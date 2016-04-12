@@ -1,0 +1,12 @@
+[gui]
+	recentrepo = C:/GitHub2
+[user]
+	name = dennisstassen
+[user]
+	email = dennisstassen@hotmail.com
+[filter "lfs"]
+	required = true
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+[credential]
+	helper = wincred

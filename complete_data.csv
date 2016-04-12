@@ -1,0 +1,271 @@
+country,partner,year,key1,key2,key3,key4,export,gdp_c,gdp_p,distance
+United States,Argentina,1995,United StatesArgentina,United StatesArgentina1995,United States1995,Argentina1995,5860.1,7338400,258217,8542.694
+United States,Argentina,2000,United StatesArgentina,United StatesArgentina2000,United States2000,Argentina2000,7231.6,9898800,284410,8542.694
+United States,Argentina,2005,United StatesArgentina,United StatesArgentina2005,United States2005,Argentina2005,5621.4,12564300,181357,8542.694
+United States,Argentina,2008,United StatesArgentina,United StatesArgentina2008,United States2008,Argentina2008,10012.1,14219300,324405,8542.694
+United States,Argentina,2009,United StatesArgentina,United StatesArgentina2009,United States2009,Argentina2009,8175.5,13898300,305763,8542.694
+United States,Australia,1995,United StatesAustralia,United StatesAustralia1995,United States1995,Australia1995,17982,7338400,403133.81,16008.79
+United States,Australia,2000,United StatesAustralia,United StatesAustralia2000,United States2000,Australia2000,20114.5,9898800,537291.43,16008.79
+United States,Australia,2005,United StatesAustralia,United StatesAustralia2005,United States2005,Australia2005,24122.3,12564300,716652.03,16008.79
+United States,Australia,2008,United StatesAustralia,United StatesAustralia2008,United States2008,Australia2008,33099.3,14219300,848026.6,16008.79
+United States,Australia,2009,United StatesAustralia,United StatesAustralia2009,United States2009,Australia2009,28923.3,13898300,899404.39,16008.79
+United States,Austria,1995,United StatesAustria,United StatesAustria1995,United States1995,Austria1995,4324.3,7338400,186645.66,6798.701
+United States,Austria,2000,United StatesAustria,United StatesAustria2000,United States2000,Austria2000,6606.7,9898800,231572.54,6798.701
+United States,Austria,2005,United StatesAustria,United StatesAustria2005,United States2005,Austria2005,5474.4,12564300,276672.16,6798.701
+United States,Austria,2008,United StatesAustria,United StatesAustria2008,United States2008,Austria2008,7647.6,14219300,331667.26,6798.701
+United States,Austria,2009,United StatesAustria,United StatesAustria2009,United States2009,Austria2009,6383.9,13898300,325304.77,6798.701
+United States,Belgium,1995,United StatesBelgium,United StatesBelgium1995,United States1995,Belgium1995,9387.4,7338400,227449.15,5891.711
+United States,Belgium,2000,United StatesBelgium,United StatesBelgium2000,United States2000,Belgium2000,11977.5,9898800,283448.34,5891.711
+United States,Belgium,2005,United StatesBelgium,United StatesBelgium2005,United States2005,Belgium2005,13118.4,12564300,337299.88,5891.711
+United States,Belgium,2008,United StatesBelgium,United StatesBelgium2008,United States2008,Belgium2008,19171.2,14219300,396534.89,5891.711
+United States,Belgium,2009,United StatesBelgium,United StatesBelgium2009,United States2009,Belgium2009,15768.9,13898300,394813.69,5891.711
+United States,Brazil,1995,United StatesBrazil,United StatesBrazil1995,United States1995,Brazil1995,15921.4,7338400,769741,7694.307
+United States,Brazil,2000,United StatesBrazil,United StatesBrazil2000,United States2000,Brazil2000,19769.1,9898800,644283,7694.307
+United States,Brazil,2005,United StatesBrazil,United StatesBrazil2005,United States2005,Brazil2005,19277.3,12564300,881754,7694.307
+United States,Brazil,2008,United StatesBrazil,United StatesBrazil2008,United States2008,Brazil2008,38774,14219300,1650392,7694.307
+United States,Brazil,2009,United StatesBrazil,United StatesBrazil2009,United States2009,Brazil2009,33360.2,13898300,1622311,7694.307
+United States,Brunei Darussalam,1995,United StatesBrunei Darussalam,United StatesBrunei Darussalam1995,United States1995,Brunei Darussalam1995,371.7,7338400,4734,14867.64
+United States,Brunei Darussalam,2000,United StatesBrunei Darussalam,United StatesBrunei Darussalam2000,United States2000,Brunei Darussalam2000,588.9,9898800,6001,14867.64
+United States,Brunei Darussalam,2005,United StatesBrunei Darussalam,United StatesBrunei Darussalam2005,United States2005,Brunei Darussalam2005,149.1,12564300,9531,14867.64
+United States,Brunei Darussalam,2008,United StatesBrunei Darussalam,United StatesBrunei Darussalam2008,United States2008,Brunei Darussalam2008,439.6,14219300,121417,14867.64
+United States,Brunei Darussalam,2009,United StatesBrunei Darussalam,United StatesBrunei Darussalam2009,United States2009,Brunei Darussalam2009,592.7,13898300,10733,14867.64
+United States,Bulgaria,1995,United StatesBulgaria,United StatesBulgaria1995,United States1995,Bulgaria1995,684.2,7338400,13422,7588.903
+United States,Bulgaria,2000,United StatesBulgaria,United StatesBulgaria2000,United States2000,Bulgaria2000,560.3,9898800,12944,7588.903
+United States,Bulgaria,2005,United StatesBulgaria,United StatesBulgaria2005,United States2005,Bulgaria2005,530.9,12564300,28971,7588.903
+United States,Bulgaria,2008,United StatesBulgaria,United StatesBulgaria2008,United States2008,Bulgaria2008,1717.5,14219300,52143,7588.903
+United States,Bulgaria,2009,United StatesBulgaria,United StatesBulgaria2009,United States2009,Bulgaria2009,1104.5,13898300,48654,7588.903
+United States,Cambodia,1995,United StatesCambodia,United StatesCambodia1995,United States1995,Cambodia1995,300.1,7338400,3419,14208.13
+United States,Cambodia,2000,United StatesCambodia,United StatesCambodia2000,United States2000,Cambodia2000,450.3,9898800,3653,14208.13
+United States,Cambodia,2005,United StatesCambodia,United StatesCambodia2005,United States2005,Cambodia2005,582.5,12564300,6293,14208.13
+United States,Cambodia,2008,United StatesCambodia,United StatesCambodia2008,United States2008,Cambodia2008,1197.9,14219300,10352,14208.13
+United States,Cambodia,2009,United StatesCambodia,United StatesCambodia2009,United States2009,Cambodia2009,843.3,13898300,10414,14208.13
+United States,Canada,1995,United StatesCanada,United StatesCanada1995,United States1995,Canada1995,122844.7,7338400,666239.27,548.3946
+United States,Canada,2000,United StatesCanada,United StatesCanada2000,United States2000,Canada2000,177909,9898800,874086.09,548.3946
+United States,Canada,2005,United StatesCanada,United StatesCanada2005,United States2005,Canada2005,206166.8,12564300,1132000,548.3946
+United States,Canada,2008,United StatesCanada,United StatesCanada2008,United States2008,Canada2008,257513.2,14219300,1298955.7,548.3946
+United States,Canada,2009,United StatesCanada,United StatesCanada2009,United States2009,Canada2009,203176.9,13898300,1274897.1,548.3946
+United States,Chile,1995,United StatesChile,United StatesChile1995,United States1995,Chile1995,4892.3,7338400,110187.86,8271.045
+United States,Chile,2000,United StatesChile,United StatesChile2000,United States2000,Chile2000,5074.8,9898800,146830.2,8271.045
+United States,Chile,2005,United StatesChile,United StatesChile2005,United States2005,Chile2005,6875.5,12564300,206427.43,8271.045
+United States,Chile,2008,United StatesChile,United StatesChile2008,United States2008,Chile2008,13529.5,14219300,276616.38,8271.045
+United States,Chile,2009,United StatesChile,United StatesChile2009,United States2009,Chile2009,9872.5,13898300,276105.19,8271.045
+United States,China,1995,United StatesChina,United StatesChina1995,United States1995,China1995,17617.7,7338400,1832792.6,10993.68
+United States,China,2000,United StatesChina,United StatesChina2000,United States2000,China2000,25150.8,9898800,3014723.6,10993.68
+United States,China,2005,United StatesChina,United StatesChina2005,United States2005,China2005,58089,12564300,5363612.8,10993.68
+United States,China,2008,United StatesChina,United StatesChina2008,United States2008,China2008,104196.2,14219300,8214633.2,10993.68
+United States,China,2009,United StatesChina,United StatesChina2009,United States2009,China2009,100955.9,13898300,9049716.3,10993.68
+United States,Chinese Taipei,1995,United StatesChinese Taipei,United StatesChinese Taipei1995,United States1995,Chinese Taipei1995,21290.5,7338400,274773,12532.54
+United States,Chinese Taipei,2000,United StatesChinese Taipei,United StatesChinese Taipei2000,United States2000,Chinese Taipei2000,29580.8,9898800,326162,12532.54
+United States,Chinese Taipei,2005,United StatesChinese Taipei,United StatesChinese Taipei2005,United States2005,Chinese Taipei2005,26559.2,12564300,364849,12532.54
+United States,Chinese Taipei,2008,United StatesChinese Taipei,United StatesChinese Taipei2008,United States2008,Chinese Taipei2008,32606.8,14219300,400206,12532.54
+United States,Chinese Taipei,2009,United StatesChinese Taipei,United StatesChinese Taipei2009,United States2009,Chinese Taipei2009,24182.8,13898300,377568,12532.54
+United States,Czech Republic,1995,United StatesCzech Republic,United StatesCzech Republic1995,United States1995,Czech Republic1995,1890.6,7338400,138171.51,6573.925
+United States,Czech Republic,2000,United StatesCzech Republic,United StatesCzech Republic2000,United States2000,Czech Republic2000,2551.8,9898800,159697.36,6573.925
+United States,Czech Republic,2005,United StatesCzech Republic,United StatesCzech Republic2005,United States2005,Czech Republic2005,2950.4,12564300,217658.88,6573.925
+United States,Czech Republic,2008,United StatesCzech Republic,United StatesCzech Republic2008,United States2008,Czech Republic2008,4492.4,14219300,269837.73,6573.925
+United States,Czech Republic,2009,United StatesCzech Republic,United StatesCzech Republic2009,United States2009,Czech Republic2009,3893.6,13898300,268945.17,6573.925
+United States,Denmark,1995,United StatesDenmark,United StatesDenmark1995,United States1995,Denmark1995,3392.9,7338400,120026.08,6191.893
+United States,Denmark,2000,United StatesDenmark,United StatesDenmark2000,United States2000,Denmark2000,5070.7,9898800,153875.93,6191.893
+United States,Denmark,2005,United StatesDenmark,United StatesDenmark2005,United States2005,Denmark2005,7053.6,12564300,179888.49,6191.893
+United States,Denmark,2008,United StatesDenmark,United StatesDenmark2008,United States2008,Denmark2008,11631.1,14219300,218808.64,6191.893
+United States,Denmark,2009,United StatesDenmark,United StatesDenmark2009,United States2009,Denmark2009,9068.9,13898300,211357.56,6191.893
+United States,Estonia,1995,United StatesEstonia,United StatesEstonia1995,United States1995,Estonia1995,391.8,7338400,9072.1257,6653.48
+United States,Estonia,2000,United StatesEstonia,United StatesEstonia2000,United States2000,Estonia2000,613.6,9898800,13533.353,6653.48
+United States,Estonia,2005,United StatesEstonia,United StatesEstonia2005,United States2005,Estonia2005,633.1,12564300,22275.16,6653.48
+United States,Estonia,2008,United StatesEstonia,United StatesEstonia2008,United States2008,Estonia2008,1003,14219300,29582.225,6653.48
+United States,Estonia,2009,United StatesEstonia,United StatesEstonia2009,United States2009,Estonia2009,676,13898300,26095.389,6653.48
+United States,Finland,1995,United StatesFinland,United StatesFinland1995,United States1995,Finland1995,3395.8,7338400,95862.202,6625.923
+United States,Finland,2000,United StatesFinland,United StatesFinland2000,United States2000,Finland2000,4836.1,9898800,132874.37,6625.923
+United States,Finland,2005,United StatesFinland,United StatesFinland2005,United States2005,Finland2005,4274.1,12564300,161096.83,6625.923
+United States,Finland,2008,United StatesFinland,United StatesFinland2008,United States2008,Finland2008,7081.4,14219300,202336.73,6625.923
+United States,Finland,2009,United StatesFinland,United StatesFinland2009,United States2009,Finland2009,5666.1,13898300,189747.17,6625.923
+United States,France,1995,United StatesFrance,United StatesFrance1995,United States1995,France1995,28794.6,7338400,1200881.3,5838.157
+United States,France,2000,United StatesFrance,United StatesFrance2000,United States2000,France2000,37352,9898800,1533008.1,5838.157
+United States,France,2005,United StatesFrance,United StatesFrance2005,United States2005,France2005,41521,12564300,1860699.8,5838.157
+United States,France,2008,United StatesFrance,United StatesFrance2008,United States2008,France2008,55480.2,14219300,2191237.4,5838.157
+United States,France,2009,United StatesFrance,United StatesFrance2009,United States2009,France2009,50782.3,13898300,2178296.8,5838.157
+United States,Germany,1995,United StatesGermany,United StatesGermany1995,United States1995,Germany1995,42464.3,7338400,1833376.3,6035.334
+United States,Germany,2000,United StatesGermany,United StatesGermany2000,United States2000,Germany2000,53146,9898800,2117499.3,6035.334
+United States,Germany,2005,United StatesGermany,United StatesGermany2005,United States2005,Germany2005,65212.3,12564300,2565997.4,6035.334
+United States,Germany,2008,United StatesGermany,United StatesGermany2008,United States2008,Germany2008,90916.9,14219300,3047862.9,6035.334
+United States,Germany,2009,United StatesGermany,United StatesGermany2009,United States2009,Germany2009,74435,13898300,2918240.5,6035.334
+United States,Greece,1995,United StatesGreece,United StatesGreece1995,United States1995,Greece1995,2778.3,7338400,154393.63,7929.328
+United States,Greece,2000,United StatesGreece,United StatesGreece2000,United States2000,Greece2000,3699.2,9898800,199196.62,7929.328
+United States,Greece,2005,United StatesGreece,United StatesGreece2005,United States2005,Greece2005,5516.7,12564300,270363.81,7929.328
+United States,Greece,2008,United StatesGreece,United StatesGreece2008,United States2008,Greece2008,8438.4,14219300,332659.54,7929.328
+United States,Greece,2009,United StatesGreece,United StatesGreece2009,United States2009,Greece2009,6805.9,13898300,329465.98,7929.328
+United States,Hong Kong, China,1995,United StatesHong Kong, China,United StatesHong Kong, China1995,United States1995,Hong Kong, China1995,8341.2,7338400,146403,12969.58
+United States,Hong Kong, China,2000,United StatesHong Kong, China,United StatesHong Kong, China2000,United States2000,Hong Kong, China2000,7971.6,9898800,171669,12969.58
+United States,Hong Kong, China,2005,United StatesHong Kong, China,United StatesHong Kong, China2005,United States2005,Hong Kong, China2005,8855.3,12564300,181570,12969.58
+United States,Hong Kong, China,2008,United StatesHong Kong, China,United StatesHong Kong, China2008,United States2008,Hong Kong, China2008,9705.6,14219300,219289,12969.58
+United States,Hong Kong, China,2009,United StatesHong Kong, China,United StatesHong Kong, China2009,United States2009,Hong Kong, China2009,9852.9,13898300,214046,12969.58
+United States,Hungary,1995,United StatesHungary,United StatesHungary1995,United States1995,Hungary1995,1450.6,7338400,92666.247,7011.543
+United States,Hungary,2000,United StatesHungary,United StatesHungary2000,United States2000,Hungary2000,2283.8,9898800,121324.1,7011.543
+United States,Hungary,2005,United StatesHungary,United StatesHungary2005,United States2005,Hungary2005,3035.4,12564300,171223.49,7011.543
+United States,Hungary,2008,United StatesHungary,United StatesHungary2008,United States2008,Hungary2008,4645.5,14219300,205079.56,7011.543
+United States,Hungary,2009,United StatesHungary,United StatesHungary2009,United States2009,Hungary2009,4140.2,13898300,202972.36,7011.543
+United States,Iceland,1995,United StatesIceland,United StatesIceland1995,United States1995,Iceland1995,363.3,7338400,6196.97,4201.936
+United States,Iceland,2000,United StatesIceland,United StatesIceland2000,United States2000,Iceland2000,628.3,9898800,8109.8009,4201.936
+United States,Iceland,2005,United StatesIceland,United StatesIceland2005,United States2005,Iceland2005,950.2,12564300,10352.808,4201.936
+United States,Iceland,2008,United StatesIceland,United StatesIceland2008,United States2008,Iceland2008,1183,14219300,12607.134,4201.936
+United States,Iceland,2009,United StatesIceland,United StatesIceland2009,United States2009,Iceland2009,687.3,13898300,11917.031,4201.936
+United States,Indonesia,1995,United StatesIndonesia,United StatesIndonesia1995,United States1995,Indonesia1995,6698.5,7338400,491565.08,16180.32
+United States,Indonesia,2000,United StatesIndonesia,United StatesIndonesia2000,United States2000,Indonesia2000,6866.8,9898800,500986.06,16180.32
+United States,Indonesia,2005,United StatesIndonesia,United StatesIndonesia2005,United States2005,Indonesia2005,8634.8,12564300,705161.9,16180.32
+United States,Indonesia,2008,United StatesIndonesia,United StatesIndonesia2008,United States2008,Indonesia2008,9818.3,14219300,910718.8,16180.32
+United States,Indonesia,2009,United StatesIndonesia,United StatesIndonesia2009,United States2009,Indonesia2009,10288.5,13898300,960780.63,16180.32
+United States,Ireland,1995,United StatesIreland,United StatesIreland1995,United States1995,Ireland1995,8600.4,7338400,65187.628,5117.716
+United States,Ireland,2000,United StatesIreland,United StatesIreland2000,United States2000,Ireland2000,14425.3,9898800,109966.24,5117.716
+United States,Ireland,2005,United StatesIreland,United StatesIreland2005,United States2005,Ireland2005,32439.8,12564300,161385.55,5117.716
+United States,Ireland,2008,United StatesIreland,United StatesIreland2008,United States2008,Ireland2008,42785.1,14219300,187993.4,5117.716
+United States,Ireland,2009,United StatesIreland,United StatesIreland2009,United States2009,Ireland2009,44732.8,13898300,179789.74,5117.716
+United States,Israel,1995,United StatesIsrael,United StatesIsrael1995,United States1995,Israel1995,6736,7338400,104866.04,9119.813
+United States,Israel,2000,United StatesIsrael,United StatesIsrael2000,United States2000,Israel2000,9900.7,9898800,147024.43,9119.813
+United States,Israel,2005,United StatesIsrael,United StatesIsrael2005,United States2005,Israel2005,10215.2,12564300,161426.66,9119.813
+United States,Israel,2008,United StatesIsrael,United StatesIsrael2008,United States2008,Israel2008,16019.9,14219300,186965.45,9119.813
+United States,Israel,2009,United StatesIsrael,United StatesIsrael2009,United States2009,Israel2009,11068.5,13898300,194042.87,9119.813
+United States,Italy,1995,United StatesItaly,United StatesItaly1995,United States1995,Italy1995,21645.9,7338400,1203934.1,6895.107
+United States,Italy,2000,United StatesItaly,United StatesItaly2000,United States2000,Italy2000,22140.5,9898800,1466461.8,6895.107
+United States,Italy,2005,United StatesItaly,United StatesItaly2005,United States2005,Italy2005,22498.2,12564300,1657399.6,6895.107
+United States,Italy,2008,United StatesItaly,United StatesItaly2008,United States2008,Italy2008,31556.7,14219300,1996725,6895.107
+United States,Italy,2009,United StatesItaly,United StatesItaly2009,United States2009,Italy2009,24319.9,13898300,1939192,6895.107
+United States,Japan,1995,United StatesJapan,United StatesJapan1995,United States1995,Japan1995,86602.7,7338400,2871613.8,10855.59
+United States,Japan,2000,United StatesJapan,United StatesJapan2000,United States2000,Japan2000,92866,9898800,3287033.6,10855.59
+United States,Japan,2005,United StatesJapan,United StatesJapan2005,United States2005,Japan2005,93763.1,12564300,3889582.4,10855.59
+United States,Japan,2008,United StatesJapan,United StatesJapan2008,United States2008,Japan2008,113410.8,14219300,4289493,10855.59
+United States,Japan,2009,United StatesJapan,United StatesJapan2009,United States2009,Japan2009,89562.1,13898300,4049391.2,10855.59
+United States,Korea,1995,United StatesKorea,United StatesKorea1995,United States1995,Korea1995,30914.5,7338400,577335.24,11065.7
+United States,Korea,2000,United StatesKorea,United StatesKorea2000,United States2000,Korea2000,37170.9,9898800,808403.8,11065.7
+United States,Korea,2005,United StatesKorea,United StatesKorea2005,United States2005,Korea2005,43646.4,12564300,1096740.8,11065.7
+United States,Korea,2008,United StatesKorea,United StatesKorea2008,United States2008,Korea2008,53861.2,14219300,1306387.2,11065.7
+United States,Korea,2009,United StatesKorea,United StatesKorea2009,United States2009,Korea2009,44279.2,13898300,1312165.4,11065.7
+United States,Latvia,1995,United StatesLatvia,United StatesLatvia1995,United States1995,Latvia1995,302.3,7338400,4973,6759.198
+United States,Latvia,2000,United StatesLatvia,United StatesLatvia2000,United States2000,Latvia2000,458.8,9898800,7776,6759.198
+United States,Latvia,2005,United StatesLatvia,United StatesLatvia2005,United States2005,Latvia2005,540.5,12564300,15938,6759.198
+United States,Latvia,2008,United StatesLatvia,United StatesLatvia2008,United States2008,Latvia2008,969.9,14219300,33453,6759.198
+United States,Latvia,2009,United StatesLatvia,United StatesLatvia2009,United States2009,Latvia2009,656.4,13898300,25854,6759.198
+United States,Lithuania,1995,United StatesLithuania,United StatesLithuania1995,United States1995,Lithuania1995,404.5,7338400,6731,6956.313
+United States,Lithuania,2000,United StatesLithuania,United StatesLithuania2000,United States2000,Lithuania2000,530.5,9898800,11501,6956.313
+United States,Lithuania,2005,United StatesLithuania,United StatesLithuania2005,United States2005,Lithuania2005,818.6,12564300,26100,6956.313
+United States,Lithuania,2008,United StatesLithuania,United StatesLithuania2008,United States2008,Lithuania2008,1287.8,14219300,47483,6956.313
+United States,Lithuania,2009,United StatesLithuania,United StatesLithuania2009,United States2009,Lithuania2009,778,13898300,37124,6956.313
+United States,Luxembourg,1995,United StatesLuxembourg,United StatesLuxembourg1995,United States1995,Luxembourg1995,1834,7338400,15881.489,6062.731
+United States,Luxembourg,2000,United StatesLuxembourg,United StatesLuxembourg2000,United States2000,Luxembourg2000,2857.8,9898800,23406.699,6062.731
+United States,Luxembourg,2005,United StatesLuxembourg,United StatesLuxembourg2005,United States2005,Luxembourg2005,3302.2,12564300,31765.783,6062.731
+United States,Luxembourg,2008,United StatesLuxembourg,United StatesLuxembourg2008,United States2008,Luxembourg2008,5924.7,14219300,41238.444,6062.731
+United States,Luxembourg,2009,United StatesLuxembourg,United StatesLuxembourg2009,United States2009,Luxembourg2009,5353.9,13898300,39500.015,6062.731
+United States,Malaysia,1995,United StatesMalaysia,United StatesMalaysia1995,United States1995,Malaysia1995,13154.6,7338400,88832,15130.12
+United States,Malaysia,2000,United StatesMalaysia,United StatesMalaysia2000,United States2000,Malaysia2000,17810.4,9898800,93789,15130.12
+United States,Malaysia,2005,United StatesMalaysia,United StatesMalaysia2005,United States2005,Malaysia2005,20202.7,12564300,143540,15130.12
+United States,Malaysia,2008,United StatesMalaysia,United StatesMalaysia2008,United States2008,Malaysia2008,20874.6,14219300,231072,15130.12
+United States,Malaysia,2009,United StatesMalaysia,United StatesMalaysia2009,United States2009,Malaysia2009,19952.4,13898300,202284,15130.12
+United States,Malta,1995,United StatesMalta,United StatesMalta1995,United States1995,Malta1995,497.6,7338400,3734,7403.357
+United States,Malta,2000,United StatesMalta,United StatesMalta2000,United States2000,Malta2000,571.6,9898800,4043,7403.357
+United States,Malta,2005,United StatesMalta,United StatesMalta2005,United States2005,Malta2005,493,12564300,6139,7403.357
+United States,Malta,2008,United StatesMalta,United StatesMalta2008,United States2008,Malta2008,808.5,14219300,8776,7403.357
+United States,Malta,2009,United StatesMalta,United StatesMalta2009,United States2009,Malta2009,635,13898300,8314,7403.357
+United States,Mexico,1995,United StatesMexico,United StatesMexico1995,United States1995,Mexico1995,53823.7,7338400,686643.29,3369.053
+United States,Mexico,2000,United StatesMexico,United StatesMexico2000,United States2000,Mexico2000,137452.1,9898800,987112.92,3369.053
+United States,Mexico,2005,United StatesMexico,United StatesMexico2005,United States2005,Mexico2005,129522.9,12564300,1293788.1,3369.053
+United States,Mexico,2008,United StatesMexico,United StatesMexico2008,United States2008,Mexico2008,165348,14219300,1627067.9,3369.053
+United States,Mexico,2009,United StatesMexico,United StatesMexico2009,United States2009,Mexico2009,126533.1,13898300,1605272.4,3369.053
+United States,Netherlands,1995,United StatesNetherlands,United StatesNetherlands1995,United States1995,Netherlands1995,15016.3,7338400,332570.89,5866.046
+United States,Netherlands,2000,United StatesNetherlands,United StatesNetherlands2000,United States2000,Netherlands2000,21867,9898800,468263.39,5866.046
+United States,Netherlands,2005,United StatesNetherlands,United StatesNetherlands2005,United States2005,Netherlands2005,24394,12564300,572900.6,5866.046
+United States,Netherlands,2008,United StatesNetherlands,United StatesNetherlands2008,United States2008,Netherlands2008,37513.4,14219300,705759.48,5866.046
+United States,Netherlands,2009,United StatesNetherlands,United StatesNetherlands2009,United States2009,Netherlands2009,33001.1,13898300,677507.72,5866.046
+United States,New Zealand,1995,United StatesNew Zealand,United StatesNew Zealand1995,United States1995,New Zealand1995,3990.4,7338400,64733.157,14546.24
+United States,New Zealand,2000,United StatesNew Zealand,United StatesNew Zealand2000,United States2000,New Zealand2000,4071.9,9898800,81535.762,14546.24
+United States,New Zealand,2005,United StatesNew Zealand,United StatesNew Zealand2005,United States2005,New Zealand2005,5366.5,12564300,104621.74,14546.24
+United States,New Zealand,2008,United StatesNew Zealand,United StatesNew Zealand2008,United States2008,New Zealand2008,5458.7,14219300,123833.72,14546.24
+United States,New Zealand,2009,United StatesNew Zealand,United StatesNew Zealand2009,United States2009,New Zealand2009,4032.5,13898300,128182.18,14546.24
+United States,Norway,1995,United StatesNorway,United StatesNorway1995,United States1995,Norway1995,4003.9,7338400,102642.65,5916.703
+United States,Norway,2000,United StatesNorway,United StatesNorway2000,United States2000,Norway2000,5130.9,9898800,162264.29,5916.703
+United States,Norway,2005,United StatesNorway,United StatesNorway2005,United States2005,Norway2005,5916.5,12564300,220190.15,5916.703
+United States,Norway,2008,United StatesNorway,United StatesNorway2008,United States2008,Norway2008,9066.6,14219300,292492.13,5916.703
+United States,Norway,2009,United StatesNorway,United StatesNorway2009,United States2009,Norway2009,8359.9,13898300,264532.57,5916.703
+United States,Philippines,1995,United StatesPhilippines,United StatesPhilippines1995,United States1995,Philippines1995,6276.6,7338400,82121,13680.8
+United States,Philippines,2000,United StatesPhilippines,United StatesPhilippines2000,United States2000,Philippines2000,8482.3,9898800,81023,13680.8
+United States,Philippines,2005,United StatesPhilippines,United StatesPhilippines2005,United States2005,Philippines2005,10523.9,12564300,103074,13680.8
+United States,Philippines,2008,United StatesPhilippines,United StatesPhilippines2008,United States2008,Philippines2008,10459.1,14219300,173603,13680.8
+United States,Philippines,2009,United StatesPhilippines,United StatesPhilippines2009,United States2009,Philippines2009,8626.4,13898300,168485,13680.8
+United States,Poland,1995,United StatesPoland,United StatesPoland1995,United States1995,Poland1995,2255.5,7338400,285876.01,6855.422
+United States,Poland,2000,United StatesPoland,United StatesPoland2000,United States2000,Poland2000,3758.9,9898800,404310.13,6855.422
+United States,Poland,2005,United StatesPoland,United StatesPoland2005,United States2005,Poland2005,4116.7,12564300,526078.6,6855.422
+United States,Poland,2008,United StatesPoland,United StatesPoland2008,United States2008,Poland2008,7515.9,14219300,687046.12,6855.422
+United States,Poland,2009,United StatesPoland,United StatesPoland2009,United States2009,Poland2009,6440.3,13898300,717115.69,6855.422
+United States,Portugal,1995,United StatesPortugal,United StatesPortugal1995,United States1995,Portugal1995,2431.8,7338400,135017.25,5425.189
+United States,Portugal,2000,United StatesPortugal,United StatesPortugal2000,United States2000,Portugal2000,2767,9898800,181963.24,5425.189
+United States,Portugal,2005,United StatesPortugal,United StatesPortugal2005,United States2005,Portugal2005,2208.5,12564300,225430.21,5425.189
+United States,Portugal,2008,United StatesPortugal,United StatesPortugal2008,United States2008,Portugal2008,3284.1,14219300,264911.93,5425.189
+United States,Portugal,2009,United StatesPortugal,United StatesPortugal2009,United States2009,Portugal2009,2673.7,13898300,264660.95,5425.189
+United States,Romania,1995,United StatesRomania,United StatesRomania1995,United States1995,Romania1995,855.5,7338400,35477,7656.178
+United States,Romania,2000,United StatesRomania,United StatesRomania2000,United States2000,Romania2000,1456.5,9898800,37333,7656.178
+United States,Romania,2005,United StatesRomania,United StatesRomania2005,United States2005,Romania2005,2803.5,12564300,99173,7656.178
+United States,Romania,2008,United StatesRomania,United StatesRomania2008,United States2008,Romania2008,2526.7,14219300,204340,7656.178
+United States,Romania,2009,United StatesRomania,United StatesRomania2009,United States2009,Romania2009,1887.7,13898300,164344,7656.178
+United States,Russian Federation,1995,United StatesRussian Federation,United StatesRussian Federation1995,United States1995,Russian Federation1995,7964.1,7338400,830723,7517.972
+United States,Russian Federation,2000,United StatesRussian Federation,United StatesRussian Federation2000,United States2000,Russian Federation2000,6646,9898800,998616.93,7517.972
+United States,Russian Federation,2005,United StatesRussian Federation,United StatesRussian Federation2005,United States2005,Russian Federation2005,8034,12564300,1696729.2,7517.972
+United States,Russian Federation,2008,United StatesRussian Federation,United StatesRussian Federation2008,United States2008,Russian Federation2008,19321.5,14219300,2878201.3,7517.972
+United States,Russian Federation,2009,United StatesRussian Federation,United StatesRussian Federation2009,United States2009,Russian Federation2009,13912.6,13898300,2728446.1,7517.972
+United States,Saudi Arabia,1995,United StatesSaudi Arabia,United StatesSaudi Arabia1995,United States1995,Saudi Arabia1995,7620.1,7338400,147940,10527.4
+United States,Saudi Arabia,2000,United StatesSaudi Arabia,United StatesSaudi Arabia2000,United States2000,Saudi Arabia2000,7695,9898800,194807,10527.4
+United States,Saudi Arabia,2005,United StatesSaudi Arabia,United StatesSaudi Arabia2005,United States2005,Saudi Arabia2005,11682.3,12564300,328461,10527.4
+United States,Saudi Arabia,2008,United StatesSaudi Arabia,United StatesSaudi Arabia2008,United States2008,Saudi Arabia2008,21645.6,14219300,519797,10527.4
+United States,Saudi Arabia,2009,United StatesSaudi Arabia,United StatesSaudi Arabia2009,United States2009,Saudi Arabia2009,18816.2,13898300,429098,10527.4
+United States,Singapore,1995,United StatesSingapore,United StatesSingapore1995,United States1995,Singapore1995,10093.6,7338400,87062,15350.5
+United States,Singapore,2000,United StatesSingapore,United StatesSingapore2000,United States2000,Singapore2000,14510.8,9898800,94308,15350.5
+United States,Singapore,2005,United StatesSingapore,United StatesSingapore2005,United States2005,Singapore2005,21237.7,12564300,125429,15350.5
+United States,Singapore,2008,United StatesSingapore,United StatesSingapore2008,United States2008,Singapore2008,29704.3,14219300,190590,15350.5
+United States,Singapore,2009,United StatesSingapore,United StatesSingapore2009,United States2009,Singapore2009,25467.1,13898300,188830,15350.5
+United States,Slovak Republic,1995,United StatesSlovak Republic,United StatesSlovak Republic1995,United States1995,Slovak Republic1995,579.8,7338400,44499.496,6852.755
+United States,Slovak Republic,2000,United StatesSlovak Republic,United StatesSlovak Republic2000,United States2000,Slovak Republic2000,955.6,9898800,59309.145,6852.755
+United States,Slovak Republic,2005,United StatesSlovak Republic,United StatesSlovak Republic2005,United States2005,Slovak Republic2005,1085.2,12564300,87133.808,6852.755
+United States,Slovak Republic,2008,United StatesSlovak Republic,United StatesSlovak Republic2008,United States2008,Slovak Republic2008,2075.8,14219300,125488.95,6852.755
+United States,Slovak Republic,2009,United StatesSlovak Republic,United StatesSlovak Republic2009,United States2009,Slovak Republic2009,1673.4,13898300,122167.52,6852.755
+United States,Slovenia,1995,United StatesSlovenia,United StatesSlovenia1995,United States1995,Slovenia1995,595.2,7338400,25868.223,6796.301
+United States,Slovenia,2000,United StatesSlovenia,United StatesSlovenia2000,United States2000,Slovenia2000,720.7,9898800,34916.686,6796.301
+United States,Slovenia,2005,United StatesSlovenia,United StatesSlovenia2005,United States2005,Slovenia2005,853.2,12564300,46962.273,6796.301
+United States,Slovenia,2008,United StatesSlovenia,United StatesSlovenia2008,United States2008,Slovenia2008,1774.2,14219300,58713.01,6796.301
+United States,Slovenia,2009,United StatesSlovenia,United StatesSlovenia2009,United States2009,Slovenia2009,1297.4,13898300,54867.595,6796.301
+United States,South Africa,1995,United StatesSouth Africa,United StatesSouth Africa1995,United States1995,South Africa1995,5119,7338400,237067.47,12581.72
+United States,South Africa,2000,United StatesSouth Africa,United StatesSouth Africa2000,United States2000,South Africa2000,5560.8,9898800,295749.84,12581.72
+United States,South Africa,2005,United StatesSouth Africa,United StatesSouth Africa2005,United States2005,South Africa2005,6055.8,12564300,405754.65,12581.72
+United States,South Africa,2008,United StatesSouth Africa,United StatesSouth Africa2008,United States2008,South Africa2008,10095.7,14219300,507531.49,12581.72
+United States,South Africa,2009,United StatesSouth Africa,United StatesSouth Africa2009,United States2009,South Africa2009,7556.4,13898300,507144.57,12581.72
+United States,Spain,1995,United StatesSpain,United StatesSpain1995,United States1995,Spain1995,9371.4,7338400,628594.97,5770.264
+United States,Spain,2000,United StatesSpain,United StatesSpain2000,United States2000,Spain2000,13675.6,9898800,858075.68,5770.264
+United States,Spain,2005,United StatesSpain,United StatesSpain2005,United States2005,Spain2005,16524.2,12564300,1188763.8,5770.264
+United States,Spain,2008,United StatesSpain,United StatesSpain2008,United States2008,Spain2008,26479.1,14219300,1510545.5,5770.264
+United States,Spain,2009,United StatesSpain,United StatesSpain2009,United States2009,Spain2009,21442.1,13898300,1469145.2,5770.264
+United States,Sweden,1995,United StatesSweden,United StatesSweden1995,United States1995,Sweden1995,6566.6,7338400,192641.95,6322.853
+United States,Sweden,2000,United StatesSweden,United StatesSweden2000,United States2000,Sweden2000,9622.5,9898800,247995.01,6322.853
+United States,Sweden,2005,United StatesSweden,United StatesSweden2005,United States2005,Sweden2005,8593.8,12564300,295293.94,6322.853
+United States,Sweden,2008,United StatesSweden,United StatesSweden2008,United States2008,Sweden2008,12291.4,14219300,365235.62,6322.853
+United States,Sweden,2009,United StatesSweden,United StatesSweden2009,United States2009,Sweden2009,11847.8,13898300,346435.05,6322.853
+United States,Switzerland,1995,United StatesSwitzerland,United StatesSwitzerland1995,United States1995,Switzerland1995,6267.2,7338400,192940.99,6272.285
+United States,Switzerland,2000,United StatesSwitzerland,United StatesSwitzerland2000,United States2000,Switzerland2000,8706.4,9898800,233555.73,6272.285
+United States,Switzerland,2005,United StatesSwitzerland,United StatesSwitzerland2005,United States2005,Switzerland2005,9206.7,12564300,274902.47,6272.285
+United States,Switzerland,2008,United StatesSwitzerland,United StatesSwitzerland2008,United States2008,Switzerland2008,13586.3,14219300,366672.5,6272.285
+United States,Switzerland,2009,United StatesSwitzerland,United StatesSwitzerland2009,United States2009,Switzerland2009,12707.2,13898300,363007.52,6272.285
+United States,Thailand,1995,United StatesThailand,United StatesThailand1995,United States1995,Thailand1995,10966.8,7338400,168019,13943.4
+United States,Thailand,2000,United StatesThailand,United StatesThailand2000,United States2000,Thailand2000,9151.5,9898800,122725,13943.4
+United States,Thailand,2005,United StatesThailand,United StatesThailand2005,United States2005,Thailand2005,10902.9,12564300,176352,13943.4
+United States,Thailand,2008,United StatesThailand,United StatesThailand2008,United States2008,Thailand2008,13228.6,14219300,272578,13943.4
+United States,Thailand,2009,United StatesThailand,United StatesThailand2009,United States2009,Thailand2009,12478.9,13898300,263711,13943.4
+United States,Turkey,1995,United StatesTurkey,United StatesTurkey1995,United States1995,Turkey1995,4115.4,7338400,425051.58,8070.75
+United States,Turkey,2000,United StatesTurkey,United StatesTurkey2000,United States2000,Turkey2000,5453.9,9898800,589322.78,8070.75
+United States,Turkey,2005,United StatesTurkey,United StatesTurkey2005,United States2005,Turkey2005,6847.9,12564300,781243.4,8070.75
+United States,Turkey,2008,United StatesTurkey,United StatesTurkey2008,United States2008,Turkey2008,12529.1,14219300,1067943.8,8070.75
+United States,Turkey,2009,United StatesTurkey,United StatesTurkey2009,United States2009,Turkey2009,9994.3,13898300,1038571.9,8070.75
+United States,United Kingdom,1995,United StatesUnited Kingdom,United StatesUnited Kingdom1995,United States1995,United Kingdom1995,43034.1,7338400,1155242.1,5570.161
+United States,United Kingdom,2000,United StatesUnited Kingdom,United StatesUnited Kingdom2000,United States2000,United Kingdom2000,67373.1,9898800,1533510.6,5570.161
+United States,United Kingdom,2005,United StatesUnited Kingdom,United StatesUnited Kingdom2005,United States2005,United Kingdom2005,69211.7,12564300,1984852.8,5570.161
+United States,United Kingdom,2008,United StatesUnited Kingdom,United StatesUnited Kingdom2008,United States2008,United Kingdom2008,92380.1,14219300,2213945.8,5570.161
+United States,United Kingdom,2009,United StatesUnited Kingdom,United StatesUnited Kingdom2009,United States2009,United Kingdom2009,77745.3,13898300,2125438,5570.161
+United States,Viet Nam,1995,United StatesViet Nam,United StatesViet Nam1995,United States1995,Viet Nam1995,800,7338400,20798,13159.26
+United States,Viet Nam,2000,United StatesViet Nam,United StatesViet Nam2000,United States2000,Viet Nam2000,1408.9,9898800,31176,13159.26
+United States,Viet Nam,2005,United StatesViet Nam,United StatesViet Nam2005,United States2005,Viet Nam2005,2011.4,12564300,52931,13159.26
+United States,Viet Nam,2008,United StatesViet Nam,United StatesViet Nam2008,United States2008,Viet Nam2008,4394.8,14219300,90302,13159.26
+United States,Viet Nam,2009,United StatesViet Nam,United StatesViet Nam2009,United States2009,Viet Nam2009,4453.2,13898300,93170,13159.26
